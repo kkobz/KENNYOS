@@ -1,4 +1,3 @@
-# KENNYOS
 KENNYOS Source Code
 
 What is KENNYOS?
