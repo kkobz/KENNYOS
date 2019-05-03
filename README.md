@@ -1,5 +1,7 @@
 # KENNYOS
-KENNYOS Source Code
+
+
+![alt text](https://kennethkobz.files.wordpress.com/2019/05/kennyos.png)
 
 What is KENNYOS?
 KENNYOS is a bare-bones operating system built for Intel x86 computers.
