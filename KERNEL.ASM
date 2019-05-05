@@ -5,7 +5,7 @@ mov ax, 2000h
 mov ds, ax
 mov es, ax
 mov ss, ax
-mov sp, 2000h
+mov sp, 1E00h
 call kernel_cls
 mov si, str_welcome
 call kernel_printtxt
