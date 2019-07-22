@@ -20,7 +20,7 @@ KENNYOS is a bare-bones operating system built for Intel x86 computers. <br/>
  -> Physical 3.5" 1.44MB Floppy Diskette <br/>
  -> Physical CD/DVD <br/>
  
-<b>How do I compile?</b>
+<b>How do I compile?</b> <br/>
  -> Open NasmPath from Desktop and move into project directory <br/>
  ** If you don't have a NasmPath shell, visit NASM.us and download the NASM Installer <br/>
 
