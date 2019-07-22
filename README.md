@@ -14,35 +14,38 @@ What compilation tools are used to build KENNYOS?
  -> ImDisk
  
 Where does the OS run from?
- -> Virtual ISO
- -> Virtual Floppy Image
- -> USB Stick
- -> Physical 3.5" 1.44MB Floppy Diskette
- -> Physical CD/DVD
+ -> Virtual ISO <br/>
+ -> Virtual Floppy Image <br/>
+ -> USB Stick <br/>
+ -> Physical 3.5" 1.44MB Floppy Diskette <br/>
+ -> Physical CD/DVD <br/>
  
 How do I compile?
- -> Open NasmPath from Desktop and move into project directory
- ** If you don't have a NasmPath shell, visit NASM.us and download
-	NASM installer
+ -> Open NasmPath from Desktop and move into project directory <br/>
+ ** If you don't have a NasmPath shell, visit NASM.us and download the NASM Installer <br/>
 
- -> Compile the BOOT.ASM file using the following command
+ -> Compile the BOOT.ASM file using the following command <br/>
 	
 		nasm -f bin -o kennyos.img BOOT.ASM
 		
- -> Compile the KERNEL.SYS file using the following command
+<br/>
+-> Compile the KERNEL.SYS file using the following command <br/>
 	
 		nasm -f bin -o kernel.sys KERNEL.ASM
 		
- -> Mount kennyos.img using ImDisk
+ <br/>
+ -> Mount kennyos.img using ImDisk <br/>
  
 		imdisk -a -f "kennyos.img" -m A:
 		
- -> Copy kernel.sys to A:\
+ <br/>
+ -> Copy kernel.sys to A:\ <br/>
  
 		copy kernel.sys a:\kernel.sys
 		
- -> Unmount kennyos.img 
+<br/>
+-> Unmount kennyos.img  <br/>
  
 		imdisk -d -m a:
-
- -> Open MagicISO and add kennyos.img as El-Torito boot image
+<br/>
+ -> Open MagicISO and add kennyos.img as El-Torito boot image <br/>
