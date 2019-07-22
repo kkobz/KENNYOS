@@ -2,16 +2,16 @@
 
 <div style="text-align:center"><img src="https://kennethkobz.files.wordpress.com/2019/05/kennyos.png" /></div>
 
-What is KENNYOS?
-KENNYOS is a bare-bones operating system built for Intel x86 computers.
+What is KENNYOS? <br/>
+KENNYOS is a bare-bones operating system built for Intel x86 computers. <br/>
 
-What programming language(s) are used?
+What programming language(s) are used? <br/>
  -> Assembly (NASM x86 syntax)
 
-What compilation tools are used to build KENNYOS?
- -> NASM
- -> MagicISO
- -> ImDisk
+What compilation tools are used to build KENNYOS? <br/>
+ -> NASM <br/>
+ -> MagicISO <br/>
+ -> ImDisk <br/>
  
 Where does the OS run from?
  -> Virtual ISO <br/>
