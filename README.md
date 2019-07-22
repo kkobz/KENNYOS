@@ -5,22 +5,22 @@
 <b>What is KENNYOS?</b> <br/>
 KENNYOS is a bare-bones operating system built for Intel x86 computers. <br/>
 
-What programming language(s) are used? <br/>
+<b>What programming language(s) are used?</b> <br/>
  -> Assembly (NASM x86 syntax)
 
-What compilation tools are used to build KENNYOS? <br/>
+<b>What compilation tools are used to build KENNYOS?</b> <br/>
  -> NASM <br/>
  -> MagicISO <br/>
  -> ImDisk <br/>
  
-Where does the OS run from?
+<b>Where does the OS run from?</b>
  -> Virtual ISO <br/>
  -> Virtual Floppy Image <br/>
  -> USB Stick <br/>
  -> Physical 3.5" 1.44MB Floppy Diskette <br/>
  -> Physical CD/DVD <br/>
  
-How do I compile?
+<b>How do I compile?</b>
  -> Open NasmPath from Desktop and move into project directory <br/>
  ** If you don't have a NasmPath shell, visit NASM.us and download the NASM Installer <br/>
 
