@@ -2,7 +2,7 @@
 
 <div style="text-align:center"><img src="https://kennethkobz.files.wordpress.com/2019/05/kennyos.png" /></div>
 
-What is KENNYOS? <br/>
+<b>What is KENNYOS?</b> <br/>
 KENNYOS is a bare-bones operating system built for Intel x86 computers. <br/>
 
 What programming language(s) are used? <br/>
