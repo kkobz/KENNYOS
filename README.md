@@ -13,7 +13,7 @@ KENNYOS is a bare-bones operating system built for Intel x86 computers. <br/>
  -> MagicISO <br/>
  -> ImDisk <br/>
  
-<b>Where does the OS run from?</b>
+<b>Where does the OS run from?</b> </br>
  -> Virtual ISO <br/>
  -> Virtual Floppy Image <br/>
  -> USB Stick <br/>
@@ -48,4 +48,4 @@ KENNYOS is a bare-bones operating system built for Intel x86 computers. <br/>
  
 		imdisk -d -m a:
 <br/>
- -> Open MagicISO and add kennyos.img as El-Torito boot image <br/>
+ -> Open MagicISO and add kennyos.img as El-Torito boot image
