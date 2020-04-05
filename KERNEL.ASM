@@ -165,7 +165,7 @@ cmd_clear db "CLEAR", 0
 cmd_trivia db "TRIVIA", 0
 prompt db " >> ", 0
 hellocmp db "HELLO", 0
-str_welcome db " KENNYOS v0.01", 0xd,0xa, " Developed by Kenneth D. Kobz", 0
+str_welcome db " KENNYOS v0.02", 0xd,0xa, " Developed by Kenneth D. Kobz", 0
 newline db 0xd,0xa,0
 urude db " You're rude!", 0x0d, 0x0a, 0
 upolite db " You're polite!", 0x0d, 0x0a, 0
